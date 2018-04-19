@@ -46,7 +46,7 @@ class Blockchain {
          * If valid chain replacing current chain
          */
         this.chain = newChain;
-        console.log('Replacing current chain with new chain');
+        console.log('Valid incoming chain: replacing blockchain with new chain');
 
     }
 }
